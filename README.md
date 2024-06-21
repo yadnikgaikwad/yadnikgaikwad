@@ -11,7 +11,7 @@
 
 
 ### <img src="https://ytmp.itsvg.in/PicsArt_11-13-11.55.52.png" width="16px" />  Eterna : A Gemini Clone
-[Eterna : A Gemini Clone]() a personal project featuring an advanced conversational AI system that mimics the original Gemini's capabilities, providing human-like interactions and accurate responses across various topics.
+[Eterna : A Gemini Clone](https://eterna-gemini.vercel.app/) a personal project featuring an advanced conversational AI system that mimics the original Gemini's capabilities, providing human-like interactions and accurate responses across various topics.
 
 
 ### <img src="https://ytmp.itsvg.in/PicsArt_11-13-11.55.52.png" width="16px" />  BookED : A Book Website
