@@ -7,7 +7,7 @@
 <p align="center">Designer | Developer</p>
 <p align="center">Turning imagination into reality </p>
 
-## Creation 👨‍💻
+## Highlighted Projects 👨‍💻
 
 
 ### <img src="https://ytmp.itsvg.in/PicsArt_11-13-11.55.52.png" width="16px" />  Eterna : A Gemini Clone
@@ -28,6 +28,14 @@
 
 ### <img src="https://ytmp.itsvg.in/PicsArt_11-13-11.55.52.png" width="16px" />  Shopique : Clothing Website
 [Shopique : Clothing Website](https://yadnikgaikwad.github.io/shopique/) is a clothing website designed with minimilistic elements focusing on responsiveness and aesthetic website.
+
+
+## 💻 PROJECT's ZONE (Working on 30+ Persional Projects)
+
+| Project Row I                        | Project Row II      |
+|------------------------------------|----------------------------------------|
+| 🌐  ETERNA - Gemini Model [**🔗**](https://eterna-gemini.vercel.app/) | 🌐 Shorting Algorithm Website [**🔗**](https://sortingalgorithmswebsite.netlify.app/) | 
+| 🌐  MYWebResume [**🔗**](https://github.com/PrinceSinghhub/MYWebResume) | 🌐 Animated My DSA Profiles Circle [**🔗**](https://mydsacircle.netlify.app/) |
 
 ## Socials🌐:
  <p align="center">
