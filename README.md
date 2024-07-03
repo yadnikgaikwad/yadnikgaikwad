@@ -34,7 +34,7 @@
 
 | Project Row I                        | Project Row II      |
 |------------------------------------|----------------------------------------|
-| 🌐  ETERNA - Gemini Model [**🔗**](https://eterna-gemini.vercel.app/) | 🌐 Shorting Algorithm Website [**🔗**](https://sortingalgorithmswebsite.netlify.app/) | 
+| 🌐  ETERNA - Gemini Model [**🔗**](https://eterna-gemini.vercel.app/) | 🌐 Visionary-Image Seach Engine [**🔗**](https://yadnikgaikwad.github.io/Visionary/) | 
 | 🌐  MYWebResume [**🔗**](https://github.com/PrinceSinghhub/MYWebResume) | 🌐 Animated My DSA Profiles Circle [**🔗**](https://mydsacircle.netlify.app/) |
 
 ## Socials🌐:
