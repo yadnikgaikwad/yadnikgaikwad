@@ -17,12 +17,8 @@
 [Eterna : A Gemini Clone](https://eterna-gemini.vercel.app/) a personal project featuring an advanced conversational AI system that mimics the original Gemini's capabilities, providing human-like interactions and accurate responses across various topics.
 
 
-### <img src="https://ytmp.itsvg.in/PicsArt_11-13-11.55.52.png" width="16px" />  BookED : A Book Website
-[BookED : A Book Website](https://yadnikgaikwad.github.io/BookED/) is a website design for a book website. Sleek, responsive, user-friendly, and visually appealing.
-
-
-### <img src="https://ytmp.itsvg.in/PicsArt_11-13-11.55.52.png" width="16px" />  CryptoSphere : A Crypto Website
-[CryptoSphere : A Crypto Website](https://yadnikgaikwad.github.io/CryptoSphere/) is a website design with a sleek, modern design with a dark theme.
+### <img src="https://ytmp.itsvg.in/PicsArt_11-13-11.55.52.png" width="16px" />  Visionary-Image Seach Engine
+[Visionary-Image Seach Engine](https://yadnikgaikwad.github.io/Visionary/) is a website design for a book website. Sleek, responsive, user-friendly, and visually appealing.
 
 
 ### <img src="https://ytmp.itsvg.in/PicsArt_11-13-11.55.52.png" width="16px" />  WONK : E-book Downloader Website
@@ -34,11 +30,13 @@
 
 <br>
 
-## </> PROJECTS (Working on 15+ Personal Projects)
+## </> PROJECTS
 
 | Project Row I                        | Project Row II      |
 |------------------------------------|----------------------------------------|
 | 🌐  ETERNA - Gemini Model [**🔗**](https://eterna-gemini.vercel.app/) | 🌐 Visionary-Image Seach Engine [**🔗**](https://yadnikgaikwad.github.io/Visionary/) | 
+| 🌐  BookED : A Book Website [**🔗**](https://yadnikgaikwad.github.io/BookED/) | 🌐 CryptoSphere : A Crypto Website [**🔗**](https://yadnikgaikwad.github.io/CryptoSphere/) |
+| 🌐  Shopique : Clothing Website [**🔗**](https://yadnikgaikwad.github.io/shopique/) | 🌐 WONK : E-book Downloader Website [**🔗**](https://yadnikgaikwad.github.io/wonk/) |
 
 
 ## Socials🌐:
