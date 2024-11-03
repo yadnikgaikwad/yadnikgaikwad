@@ -50,6 +50,7 @@
 
 #### Containers
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?style=for-the-badge&logo=kubernetes)
+![Docker](https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=docker)
 #### Languages
 ![Java](https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
