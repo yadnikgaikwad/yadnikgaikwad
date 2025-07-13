@@ -5,9 +5,12 @@
 <h1 align="center"> Hi, I'm Yadnik Gaikwad </br> 
 </h1>
 <p align="center">Designer | Developer</p>
-<p align="center">Turning imagination into reality </p>
+<p align="center">Either live with experience or die with regret</p>
 
 ## Highlighted Projects 👨‍💻
+
+### <img src="https://ytmp.itsvg.in/PicsArt_11-13-11.55.52.png" width="16px" /> Promptson
+[Promptson](https://promptson.vercel.app/) Convert natural language prompts into structured JSON formats for ChatGPT, Claude, and other AI models. Enhance your AI interactions with intelligent prompt formatting.
 
 ### <img src="https://ytmp.itsvg.in/PicsArt_11-13-11.55.52.png" width="16px" /> TathyaX
 [TathyaX](https://github.com/Tathya-X/TathyaX) is an AI Agent that fact checks tweets on X(Formerly known as twitter) when its mentioned under them currently the bot is under development.
@@ -19,10 +22,6 @@
 
 ### <img src="https://ytmp.itsvg.in/PicsArt_11-13-11.55.52.png" width="16px" />  Visionary-Image Seach Engine
 [Visionary-Image Seach Engine](https://yadnikgaikwad.github.io/Visionary/) is a website design for a book website. Sleek, responsive, user-friendly, and visually appealing.
-
-
-### <img src="https://ytmp.itsvg.in/PicsArt_11-13-11.55.52.png" width="16px" />  WONK : E-book Downloader Website
-[WONK : E-book Downloader Website](https://yadnikgaikwad.github.io/wonk/) is a free E-Book Downloading Website consisting of various coding languages E-books for students to learn programming.
 
 
 ### <img src="https://ytmp.itsvg.in/PicsArt_11-13-11.55.52.png" width="16px" />  Echo-Pad : A Voice Note App
