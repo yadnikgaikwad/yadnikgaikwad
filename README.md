@@ -76,9 +76,6 @@
 
 ---
 
-> ⚙️ Crafted with code and a designer’s soul.  
-> *P.S. This is my first open-source journey. More is coming. Stay tuned.*
-
 ---
 
 ## 🖥 Terminal Vibes (Optional Footer Style)
