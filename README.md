@@ -78,7 +78,7 @@
 
 ---
 
-## 🖥 Terminal Vibes (Optional Footer Style)
+## 🖥 *
 
 ```shell
 $ whoami
